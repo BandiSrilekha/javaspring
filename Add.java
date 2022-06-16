@@ -9,5 +9,9 @@ class x1
     b=20
       c=a+b;
   System.out.println(c);
+    
+    c=a-b;
+    System.out.println(c);
+    
   }
 }
